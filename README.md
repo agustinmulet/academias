@@ -12,6 +12,7 @@ Es probable que cuando veas esta lista algunas academias ya hayan comenzado (o n
 
 **Academias:**
 
+- [GlobalHITSS](https://docs.google.com/forms/d/e/1FAIpQLSetxWUeRatcE3X3rve2KqpAw5OCQLznUOwXMLq5E4IB3J52yQ/viewform) (PHP, QA y Sysadmin)
 - [Despegar](https://despegar.avature.net/altovuelo2019)
 - [Globant](https://www.globant.com/job/talented-technology-passionates)
 - [Practia](https://ar.linkedin.com/jobs/view/jóvenes-profesionales-de-sistemas-at-practia-global-1072525670)
