@@ -33,6 +33,12 @@ Es probable que cuando veas esta lista algunas academias ya hayan comenzado (o n
 - [GlobalLogic](https://www.globallogic.com/latam/careers/)
 - [Everis](https://www.everis.com/argentina/es/careers)
 
+### La Plata
+
+**Academias:**
+
+- [NaNLABS](https://www.nan-labs.com/blog/nuestro-propio-programa-de-desarrollo-web-full-stack/)
+
 ### Córdoba
 
 **Academias:**
