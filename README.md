@@ -2,9 +2,9 @@
 
 Armé este repo para nuclear links de academias/escuelitas/capacitaciones/bootcamps de empresas para gente sin experiencia/trainee/jr porque la data que encontré siempre estaba muy dispersa.
 
-Son bienvenidos a hacer PR sumando de distintas localidades y países así agrandamos la lista y masificamos la info. También si conocen el link a la academia de alguna empresa listada, es bienvenido.
+Son bienvenidos a hacer PR sumando de distintas localidades y países así agrandamos la lista y masificamos la info. También si conocen el enlace a la academia de alguna empresa listada, es bienvenido.
 
-Es probable que cuando veas esta lista algunas academias ya hayan comenzado (o no estén abiertas las inscripciones), pero te recomiendo enviar igualmente tus datos consultando así cuando comiencen de nuevo, ya van a tener tus datos para avisarte.
+Es probable que cuando veas esta lista algunas academias ya hallan comenzado (o no estén abiertas las inscripciones), pero te recomiendo enviar igualmente tus datos consultando así cuando comiencen de nuevo, ya van a tener tus datos para avisarte.
 
 ## Argentina
 
@@ -24,6 +24,10 @@ Es probable que cuando veas esta lista algunas academias ya hayan comenzado (o n
 - [Softtek](https://www.softtek.com/careers/programas-de-capacitacion-academias)
 - [IBM](https://careers.ibm.com/ShowJob/Id/504134/Estudiante-de-Desarrollo-PHP-y-Java/?lang=es)
 - [Atos (es 2017 pero con mandar un mail no se pierde nada! 😆)](https://www.atos.net/es-ar/2017/comunicados-de-prensa_2017_05_18/atos-abre-nueva-convocatoria-para-vacantes-en-buenos-aires)
+- [Yo puedo programar](https://www.yopuedoprogramar.com/)
+- [Freecodecamp](https://www.freecodecamp.org/): en idioma inglés
+- [Google Developers Training](https://developers.google.com/training/): en idioma inglés
+- [Grow with Google](https://grow.google/): en idioma inglés
 
 **Links para enviar CV:**
 
@@ -33,13 +37,13 @@ Es probable que cuando veas esta lista algunas academias ya hayan comenzado (o n
 - [GlobalLogic](https://www.globallogic.com/latam/careers/)
 - [Everis](https://www.everis.com/argentina/es/careers)
 
-### La Plata
+### La Plata (Argentina)
 
 **Academias:**
 
 - [NaNLABS](https://www.nan-labs.com/blog/nuestro-propio-programa-de-desarrollo-web-full-stack/)
 
-### Córdoba
+### Córdoba (Argentina)
 
 **Academias:**
 
