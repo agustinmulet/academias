@@ -12,6 +12,8 @@ Es probable que cuando veas esta lista algunas academias ya hayan comenzado (o n
 
 **Academias:**
 
+- [Almundo](almundo.jpg)
+- [Lagash University](https://landings.lagash.com/University)
 - [GlobalHITSS](https://docs.google.com/forms/d/e/1FAIpQLSetxWUeRatcE3X3rve2KqpAw5OCQLznUOwXMLq5E4IB3J52yQ/viewform) (PHP, QA y Sysadmin)
 - [Despegar](https://despegar.avature.net/altovuelo2019)
 - [Globant](https://www.globant.com/job/talented-technology-passionates)
@@ -22,7 +24,7 @@ Es probable que cuando veas esta lista algunas academias ya hayan comenzado (o n
 - [Cognizant](https://careers.cognizant.com/studentandinterns/ar/es)
 - [Baufest](https://www.computrabajo.com.ar/baufest/empleos/oferta-de-trabajo-de-estudiantes-de-sistemas-interesados-en-capacitarse-en-desarrollo-full-stack-en-belgrano-EE1DB1D0F650FE5361373E686DCF3405)
 - [Softtek](https://www.softtek.com/careers/programas-de-capacitacion-academias)
-- [IBM](https://careers.ibm.com/ShowJob/Id/504134/Estudiante-de-Desarrollo-PHP-y-Java/?lang=es)
+- [IBM](https://www-05.ibm.com/employment/ar-es/entry_level_campus.html) - [Programa IBM Student](https://careers.ibm.com/ListJobs/All/Search/Country/AR/position-type/intern/?lang=es) - [Programa IBM Recién graduados](https://careers.ibm.com/ListJobs/All/Search/Country/AR/?lang=es)
 - [Atos (es 2017 pero con mandar un mail no se pierde nada! 😆)](https://www.atos.net/es-ar/2017/comunicados-de-prensa_2017_05_18/atos-abre-nueva-convocatoria-para-vacantes-en-buenos-aires)
 
 **Links para enviar CV:**
