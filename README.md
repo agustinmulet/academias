@@ -12,6 +12,8 @@ Es probable que cuando veas esta lista algunas academias ya hayan comenzado (o n
 
 **Academias:**
 
+- [Fizzmod](http://fizzmod.com/formate-gratis-en-react-y-javasript-y-unite-a-nuestro-equipocapacitate-gratis-con-fizzmod-y-forma-parte-del-equipo/) (Capacitación gratuita en React, comienza el 29/07/2019. Ya hicieron otra antes para Node!)
+- [Medallia](https://www.eventbrite.com/e/open-house-medallia-programa-de-internships-2019-registration-65133917300) (Evento para conocer el programa de Internships, es el 05/08/2019)
 - [Almundo](almundo.jpg)
 - [Lagash University](https://landings.lagash.com/University)
 - [GlobalHITSS](https://docs.google.com/forms/d/e/1FAIpQLSetxWUeRatcE3X3rve2KqpAw5OCQLznUOwXMLq5E4IB3J52yQ/viewform) (PHP, QA y Sysadmin)
@@ -29,6 +31,7 @@ Es probable que cuando veas esta lista algunas academias ya hayan comenzado (o n
 
 **Links para enviar CV:**
 
+- [Epidata](https://www.linkedin.com/feed/update/urn:li:activity:6555439147866218496/) (Búsqueda para nivel Trainee/Jr pero tienen escuelita)
 - [Practia](http://www.practia.global/Careers/Paginas/Unete-a-Practia.aspx)
 - [BGH Tech Partner](https://www.bgh.com.ar/trabaja-con-nosotros)
 - [Baufest](https://baufest.com/es/trabajar-en-baufest-es)
