@@ -28,6 +28,7 @@ Es probable que cuando veas esta lista algunas academias ya hayan comenzado (o n
 - [Softtek](https://www.softtek.com/careers/programas-de-capacitacion-academias)
 - [IBM](https://www-05.ibm.com/employment/ar-es/entry_level_campus.html) - [Programa IBM Student](https://careers.ibm.com/ListJobs/All/Search/Country/AR/position-type/intern/?lang=es) - [Programa IBM Recién graduados](https://careers.ibm.com/ListJobs/All/Search/Country/AR/?lang=es)
 - [Atos (es 2017 pero con mandar un mail no se pierde nada! 😆)](https://www.atos.net/es-ar/2017/comunicados-de-prensa_2017_05_18/atos-abre-nueva-convocatoria-para-vacantes-en-buenos-aires)
+- [PNT](https://somospnt.com/candidatos)
 
 **Links para enviar CV:**
 
