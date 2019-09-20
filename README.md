@@ -38,6 +38,7 @@ Es probable que cuando veas esta lista algunas academias ya hayan comenzado (o n
 - [Baufest](https://baufest.com/es/trabajar-en-baufest-es)
 - [GlobalLogic](https://www.globallogic.com/latam/careers/)
 - [Everis](https://www.everis.com/argentina/es/careers)
+- [Andreani](https://andreani.hiringroom.com/jobs/get_vacancy/5d42f43248121c8249473530)
 
 ### La Plata
 
