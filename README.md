@@ -51,3 +51,15 @@ Es probable que cuando veas esta lista algunas academias ya hayan comenzado (o n
 **Academias:**
 
 - [MercadoLibre](https://jobs.mercadolibre.com/job/C%C3%B3rdoba-Programa-IT-Academy-2018/443086500/)
+
+## Perú
+
+### Lima
+
+**Academias:**
+
+- [Codeable](https://codeable.pe/)
+
+**Links para enviar CV:**
+
+- [Able](https://boards.greenhouse.io/able)
