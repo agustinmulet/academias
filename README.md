@@ -50,7 +50,7 @@ Es probable que cuando veas esta lista algunas academias ya hayan comenzado (o n
 
 **Academias:**
 
-- [MercadoLibre](https://jobs.mercadolibre.com/job/C%C3%B3rdoba-Programa-IT-Academy-2018/443086500/)
+- [MercadoLibre](https://jobs.mercadolibre.com/job/C%C3%B3rdoba-IT-Accelerator-2018/469216500/)
 
 ## Perú
 
