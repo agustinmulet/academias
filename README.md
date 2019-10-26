@@ -30,6 +30,7 @@ Es probable que cuando veas esta lista algunas academias ya hayan comenzado (o n
 - [Atos (es 2017 pero con mandar un mail no se pierde nada! 😆)](https://www.atos.net/es-ar/2017/comunicados-de-prensa_2017_05_18/atos-abre-nueva-convocatoria-para-vacantes-en-buenos-aires)
 - [PNT](https://somospnt.com/candidatos)
 - [iúnigo](https://iunigo.com.ar)
+- [VATES](https://www.vates.com/)
 
 **Links para enviar CV:**
 
